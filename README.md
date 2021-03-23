@@ -11,7 +11,10 @@ Este es un curso en **JavaScript** para desarrolladores **midlevel**.
 ## Tiempos
 
 0:00:00​ - Lo básico de JS
+
 0:35:24​ - CRUD en JS
+
 1:20:51​ - Local Storage
+
 1:55:00​ - Filtros
 
