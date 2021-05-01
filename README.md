@@ -18,4 +18,4 @@ Este es un curso en **JavaScript** para desarrolladores **midlevel**.
 
 1:55:00​ - Filtros
 
-fin
+listo
